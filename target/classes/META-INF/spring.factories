@@ -1,2 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.lh.xl.plugin.ParameterInterceptor,com.lh.xl.plugin.ResultSetInterceptor
